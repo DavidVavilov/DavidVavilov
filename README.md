@@ -1,19 +1,9 @@
 ### Hi there 👋
 My name is David 😄
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### About me 👨🏽‍💻 :
 - 🔭 I’m currently working on a Django side project and developing a website for a company
+- 🌟 Also working on another side project called [wtTaby][wttaby], Check it out!!
 - 🌱 I’m currently learning more about Django 
 - 🎓 Also learning in a Government Cyber education program
 - 💬 Ask me about anything you want😃
@@ -46,4 +36,5 @@ My name is David 😄
 
 [twitter]: https://twitter.com/david_vavilov1
 [instagram]: https://instagram.com/daviddevav
+[wttaby]: https://github.com/DavidVavilov/wtTaby
 
