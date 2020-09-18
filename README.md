@@ -3,7 +3,7 @@ My name is David 😄
 
 ### About me 👨🏽‍💻 :
 - 🔭 I’m currently working on a Django side project and developing a website for a company
-- 🌟 Also working on another side project called [wtTaby][wttaby], Check it out!!
+- 🌟 Working on another side project called [wtTaby][wttaby], Check it out!!
 - 🌱 I’m currently learning more about Django 
 - 🎓 Also learning in a Government Cyber education program
 - 💬 Ask me about anything you want😃
