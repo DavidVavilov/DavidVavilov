@@ -2,9 +2,8 @@
 My name is David 😄
 
 ### About me 👨🏽‍💻 :
-- 🔭 I’m currently working on a Django side project and developing a website for a company
+- 🌱 I’m currently working on a Django side project and developing a website for a company
 - 🌟 Working on another side project called [wtTaby][wttaby], Check it out!!
-- 🌱 I’m currently learning more about Django 
 - 🎓 Also learning in a Government Cyber education program
 - 💬 Ask me about anything you want😃
 - 📫 How to reach me: Email - vavilovdavid@gmail.com, Or on [Twitter][twitter] and [Instagram][instagram] 😆 
