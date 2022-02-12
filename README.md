@@ -4,7 +4,7 @@ My name is David 😄
 ### About me 👨🏽‍💻 :
 - 🌱 I'm 17 years old, living in Israel and still in High School
 - 🌟 Working on another side project called [wtTaby][wttaby], Check it out!!
-- 🎓 Also learning in a Government Cyber education program and developing a malware analysis sandbox called MalwareBox!
+- 🎓 A student in a Government Cyber education program and developing a malware analysis sandbox called MalwareBox!
 - 💬 Ask me about anything you want😃
 - 📫 How to reach me: Email - vavilovdavid@gmail.com, Or on [Twitter][twitter] and [Instagram][instagram] 😆 
 <br />
